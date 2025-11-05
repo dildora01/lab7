@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/dildora_loyiha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dildora_loyiha/bare_repo.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dildora_loyiha/clone_repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dildora_loyiha/maxsus" vcs="Git" />
+  </component>
+</project>
